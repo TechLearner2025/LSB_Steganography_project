@@ -51,4 +51,4 @@ The hidden message will be displayed on the console.
 - Add support for other image formats.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available.
